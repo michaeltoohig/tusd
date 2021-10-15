@@ -101,7 +101,7 @@ The process of the hook files are provided with information about the event and 
       "filename": "transloadit.png"
     },
     // Details about where the data store saved the uploaded file. The different
-    // availabl keys vary depending on the used data store.
+    // available keys vary depending on the used data store.
     "Storage": {
       // For example, the filestore supplies the absolute file path:
       "Type": "filestore",
